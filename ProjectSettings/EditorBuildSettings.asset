@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: f03d15240bc3d3149ae95a0567127d7d
+  - enabled: 1
+    path: Assets/Scenes/GameMode.unity
+    guid: ae4b2d8a9ea2bd64a941c4a75a32fba2
+  - enabled: 1
+    path: Assets/Scenes/TimeLimitMode.unity
+    guid: 89a6501582801a34c8bde95102c7902c
+  - enabled: 1
+    path: Assets/Scenes/RaceMode.unity
+    guid: 5a53d0fbb015c66499c6b6230b0b45bf
+  m_configObjects: {}
